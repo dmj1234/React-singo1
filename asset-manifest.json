@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-singo1-website/static/css/main.bd2aa3c5.chunk.css",
+    "main.js": "/React-singo1-website/static/js/main.abf396e6.chunk.js",
+    "main.js.map": "/React-singo1-website/static/js/main.abf396e6.chunk.js.map",
+    "runtime-main.js": "/React-singo1-website/static/js/runtime-main.fa0c4441.js",
+    "runtime-main.js.map": "/React-singo1-website/static/js/runtime-main.fa0c4441.js.map",
+    "static/js/2.e566873b.chunk.js": "/React-singo1-website/static/js/2.e566873b.chunk.js",
+    "static/js/2.e566873b.chunk.js.map": "/React-singo1-website/static/js/2.e566873b.chunk.js.map",
+    "index.html": "/React-singo1-website/index.html",
+    "static/css/main.bd2aa3c5.chunk.css.map": "/React-singo1-website/static/css/main.bd2aa3c5.chunk.css.map",
+    "static/js/2.e566873b.chunk.js.LICENSE.txt": "/React-singo1-website/static/js/2.e566873b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa0c4441.js",
+    "static/js/2.e566873b.chunk.js",
+    "static/css/main.bd2aa3c5.chunk.css",
+    "static/js/main.abf396e6.chunk.js"
+  ]
+}
